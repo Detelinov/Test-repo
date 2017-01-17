@@ -1,2 +1,2 @@
 This is a test repo
-new commit x3
+new commit
